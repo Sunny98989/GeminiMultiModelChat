@@ -1,5 +1,5 @@
 import google.generativeai as ai
-from keys import API_KEY  # Import API key from a separate file for security
+from keys import API_KEY
 import time
 import random
 
