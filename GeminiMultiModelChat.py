@@ -366,7 +366,7 @@ def main():
     """this is where the chat app starts running"""
 
     print(f"\n{Fore.CYAN}{Style.BRIGHT}{'=' * 60}")
-    print(f"{' ' * 20}GEMINI CHAT INTERFACE")
+    print(f"{' ' * 20}GEMINI MULTIMODEL CLI CHATBOT")
     print(f"{'=' * 60}{Style.RESET_ALL}\n")
 
     # get the list of models and let the user pick one
